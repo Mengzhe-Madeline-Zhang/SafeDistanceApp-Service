@@ -1,0 +1,44 @@
+.heatmap{
+    height: 88vh;
+    width: 100%;
+}
+
+.report{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 50%;
+    height: 500px;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    transform: scaleY(0.5);
+}
+
+.content{
+    text-align: left;
+    transform: scaleY(2);
+    margin-top: 60%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.newcontent{
+    text-align: left;
+    transform: scaleY(2);
+    margin-top: 60%;
+    margin-bottom: auto;
+    margin-left: 8%;
+    margin-right: auto;
+}
+
+.options{
+    margin-left: 3%;
+    background-color: #eceff1;
+}
+

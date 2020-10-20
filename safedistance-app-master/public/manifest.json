@@ -1,0 +1,28 @@
+{
+  "short_name": "DisAlert",
+  "name": "Keep distance",
+  "description": "Distance Alerting App. ",
+  "icons": [
+    {
+        "src": "../icons/icon-64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/icon-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },
+    {
+        "src": "./icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+],
+"start_url": "/index.html",
+"scope":"/",
+"display": "standalone",
+"theme_color": "#3367D6",
+"background_color": "#3367D6"
+
+}

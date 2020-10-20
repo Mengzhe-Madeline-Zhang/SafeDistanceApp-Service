@@ -1,0 +1,38 @@
+.stats-div{
+    height:340px;
+    overflow-y: auto;
+    overflow-x:auto;
+}
+.formControl{
+    padding-left: 20em;
+}
+.bar{
+    fill: rgb(70, 130, 180);
+}
+.y_labels line{
+    stroke: rgb(70, 130, 180);
+    stroke-width: 1px;
+    
+}
+.y_labels text{
+    font-size: 0.8em;
+    fill: rgb(70, 130, 180);
+    text-anchor: end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.chart line{
+    stroke: rgb(70, 130, 180);
+    stroke-width: 1px;
+    
+}
+.chart text{
+    fill: rgb(70, 130, 180);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+}
+.one{
+    transform: translate(-5px,17px);
+}
+.two{
+    transform: translate(-5px,51px);
+}

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "FinalProject:server/controllers/locations-controller.save (nodejs10.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "",
+                "lambdaHandler": "server/controllers/locations-controller.save"
+            },
+            "lambda": {
+                "runtime": "nodejs10.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        }
+    ]
+}

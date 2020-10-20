@@ -1,0 +1,55 @@
+
+.inner_container{
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+    height: 400px;
+    width: 500px;
+    margin-left: 35%;
+    margin-right: 30%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.inner_navbar{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.inner_navbar_button{
+    font-weight: bold;
+    color: #7c7c7c98;
+    border: none;
+    text-decoration: none;
+}
+.noValidate{
+    height: 80%;
+}
+
+.roundbutton{
+    margin-top: 10%;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 130px;
+    border-radius: 10px;
+    background-color:black;
+    text-align: center;
+    font-size:medium;
+    
+}
+.roundbutton:hover{
+    cursor: pointer;
+    color: grey;
+}
+
+.form-group{
+    margin-top: 8%;
+}
+
+.form-control {
+    border-style:none;
+    border-bottom-style:solid;
+    border-bottom-width:thin;
+    border-bottom-color:grey;
+    }
